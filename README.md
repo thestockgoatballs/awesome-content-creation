@@ -1,6 +1,7 @@
 # Awesome Content Creation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools, resources, templates, and frameworks for content creators across all platforms.
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool that automatically finds the best moments from long-form videos. Perfect for streamers, YouTubers, and podcasters.
 
 Whether you're building a YouTube channel, growing on TikTok, writing newsletters, or creating faceless content — this list has you covered.
 
